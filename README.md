@@ -1,18 +1,24 @@
-# Olá 👋
+<h1>Olá 👋</h1>
+<p>Me chamo Arthur Henrique e sou estudante de Análise e Desenvolvimento de Sistemas.<br> Gosto de estudar principalmente Front-End e pretendo me tornar um desenvolvedor Fullstack.</p>
 
-Me chamo Arthur Henrique Monteiro Pereira
+<hr>
 
-<!--
-**arthurhenrique8761/arthurhenrique8761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Sobre Mim</h3>
+<ul>
+  <li>Escolaridade: Escolaridade: Análise e Desenvolvimento de Sistemas - Fatec (cursado, 2° semestre)</li>
+  <li>Aprimorando conhecimentos em: Java, Javascript, Desenvolvimento Web e SQL</li>
+</ul>
 
-Here are some ideas to get you started:
+<h3>Habilidades Técnicas</h3>
+<ul>
+  <li>Linguagens: Java, Javascript</li>
+  <li>Front-End: HTML5, CSS3</li>
+  <li>Ferramentas: Git, IntelliJ, VS Code, Photoshop</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h3>Contatos</h3>
+<ul>
+  <li>LinkedIn: https://www.linkedin.com/in/arthur-henrique-956178406/</li>
+</ul>
