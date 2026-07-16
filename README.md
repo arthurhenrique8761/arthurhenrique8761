@@ -1,11 +1,11 @@
 <h1>Olá 👋</h1>
-<p>Me chamo Arthur Henrique e sou estudante de Análise e Desenvolvimento de Sistemas.<br> Gosto de estudar principalmente Front-End e pretendo me tornar um desenvolvedor Fullstack.</p>
+<p>Me chamo Arthur Henrique Monteiro Pereira e sou estudante de Análise e Desenvolvimento de Sistemas.<br> Moro em Cotia-SP, gosto de estudar principalmente Front-End e pretendo me tornar um desenvolvedor Fullstack.</p>
 
 <hr>
 
 <h3>Sobre Mim</h3>
 <ul>
-  <li>Escolaridade: Escolaridade: Análise e Desenvolvimento de Sistemas - Fatec (cursado, 2° semestre)</li>
+  <li>Escolaridade: Escolaridade: Análise e Desenvolvimento de Sistemas - Fatec Carapicuíba(cursado, 2° semestre)</li>
   <li>Aprimorando conhecimentos em: Java, Javascript, Desenvolvimento Web e SQL</li>
 </ul>
 
