@@ -1,5 +1,5 @@
 <h1>Olá 👋</h1>
-<p>Me chamo Arthur Henrique Monteiro Pereira e sou estudante de Análise e Desenvolvimento de Sistemas.<br> Moro em Cotia-SP, gosto de estudar principalmente Front-End e pretendo me tornar um desenvolvedor Fullstack.</p>
+<p>Me chamo Arthur Henrique Monteiro Pereira e sou estudante de Análise e Desenvolvimento de Sistemas.<br> Moro em Cotia-SP, gosto de estudar Java, Back-end e Front-end e pretendo me tornar um desenvolvedor Fullstack.</p>
 
 <hr>
 
