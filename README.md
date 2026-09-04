@@ -21,4 +21,5 @@
 <h3>Contatos</h3>
 <ul>
   <li>LinkedIn: https://www.linkedin.com/in/arthur-henrique-956178406/</li>
+  <li>Email: arthurhenrique1678@gmail.com</li>
 </ul>
