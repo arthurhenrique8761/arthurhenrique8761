@@ -6,14 +6,14 @@
 <h3>Sobre Mim</h3>
 <ul>
   <li>Escolaridade: Escolaridade: Análise e Desenvolvimento de Sistemas - Fatec Carapicuíba(cursado, 2° semestre)</li>
-  <li>Aprimorando conhecimentos em: Java, Javascript, Desenvolvimento Web e SQL</li>
+  <li>Aprimorando conhecimentos em: Java, Javascript, Desenvolvimento Web e MySQL</li>
 </ul>
 
 <h3>Habilidades Técnicas</h3>
 <ul>
   <li>Linguagens: Java, Javascript</li>
   <li>Front-End: HTML5, CSS3</li>
-  <li>Ferramentas: Git, IntelliJ, VS Code, Photoshop</li>
+  <li>Ferramentas: Git, GitHub, IntelliJ, VS Code, Photoshop</li>
 </ul>
 
 <hr>
