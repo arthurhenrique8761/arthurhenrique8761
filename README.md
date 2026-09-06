@@ -18,8 +18,12 @@
 
 <hr>
 
-<h3>Contatos</h3>
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/arthur-henrique-956178406/</li>
-  <li>Email: arthurhenrique1678@gmail.com</li>
-</ul>
+<h2>Contatos</h2>
+    <ul>
+        <li>
+            <a href="https://www.linkedin.com/in/arthur-henrique-956178406/">LinkedIn</a>
+        </li>
+        <li>
+            <a href="https://github.com/arthurhenrique8761">GitHub</a>
+        </li>
+    </ul>
