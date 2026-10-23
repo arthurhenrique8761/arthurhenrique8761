@@ -19,4 +19,7 @@
         <li>
             <a href="https://www.linkedin.com/in/arthur-henrique-956178406/">LinkedIn</a>
         </li>
+        <li>
+          <a href="mailto:arthurhenrique1678@gmail.com">Email</a>
+        </li>
     </ul>
