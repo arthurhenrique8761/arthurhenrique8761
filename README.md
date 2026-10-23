@@ -19,7 +19,4 @@
         <li>
             <a href="https://www.linkedin.com/in/arthur-henrique-956178406/">LinkedIn</a>
         </li>
-        <li>
-            <a href="https://github.com/arthurhenrique8761">GitHub</a>
-        </li>
     </ul>
