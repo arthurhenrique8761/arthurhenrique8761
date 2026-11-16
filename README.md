@@ -4,7 +4,7 @@
 <h3>Sobre Mim</h3>
 <ul>
   <li>Escolaridade: Análise e Desenvolvimento de Sistemas - Fatec Carapicuíba (cursado, 2° semestre)</li>
-  <li>Aprimorando conhecimentos em: Java, JavaScript, Desenvolvimento Web e MySQL</li>
+  <li>Aprimorando conhecimentos em: Java, JavaScript, Desenvolvimento Web, Banco de Dados, IA e Engenharia de Software</li>
 </ul>
 
 <h3>Habilidades Técnicas</h3>
